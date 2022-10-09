@@ -1,7 +1,12 @@
 # Random Password Generator App
 
-### Overview
-  - [Challenge]
+## Overview
+
+### Description
+
+The random password generator has the option to include Uppercase letters, Lowercase letters, numbers and special symbols.
+
+### Challenge
   
   - Generate a password based on the selected inclusion option.
   - Copy the generated password to the clipboard.
@@ -15,11 +20,12 @@
 
 - Hosted URL: ()
 
-## built with
+### built with
 
 - HTML5
 - CSS
 - JavaScript
+- FlexBox
 
 ### What i learned
 
