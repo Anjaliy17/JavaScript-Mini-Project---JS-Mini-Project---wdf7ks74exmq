@@ -36,6 +36,7 @@ h2 {
     height: 50px;
     background-color: darkgray;
     padding: 12px 10px;
+    color: #191820;
 }
 
 .result-container #result {
@@ -49,15 +50,13 @@ h2 {
     top: 5px;
 	right: 5px;
 	height: 40px;
-}
-
-.copy-btn {
-	border: 1px solid black;
+    border: 1px solid black;
 	color: #A3FFAE;
 	font-size: 16px;
 	padding: 8px 12px;
 	background-color: #23222A;
 }
+
 
 .copy-btn:hover {
     cursor: pointer;
@@ -71,20 +70,11 @@ h2 {
     padding: 1rem;
 }
 
-.character {
-    display: flex;
-    justify-content: space-between;
-}
-
-.length {
-    font-size: 18;
-    color: #A3FFAE;
-}
-
-#slider {
-    width: 100%;
-    background-color: darkgray;
-    margin-bottom: 1rem;
+.length input {
+    margin-left: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
 }
 
 .setting {
