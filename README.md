@@ -18,7 +18,7 @@ The random password generator has the option to include Uppercase letters, Lower
 
 ### Links 
 
-- Hosted URL: ()
+- Hosted URL: (https://random-password-generator-ay.netlify.app/)
 
 ### built with
 
