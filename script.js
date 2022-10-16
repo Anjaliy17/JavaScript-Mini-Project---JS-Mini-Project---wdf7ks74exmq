@@ -67,7 +67,7 @@ clipboard.addEventListener("click", () => {
 
 
 function truncateString(str, num) {
-    if(str,length > num) {
+    if(str.length > num) {
         let subStr = str.subString(0, num);
         return subStr;
     } else {
