@@ -50,13 +50,8 @@ document.getElementById("generate").addEventListener(
 
 
 function truncateString(str, num) {
-<<<<<<< HEAD
     if (str.length > num) {
         let subStr = str.substring(0, num);
-=======
-    if(str.length > num) {
-        let subStr = str.subString(0, num);
->>>>>>> cbd8774a911767263a9434e94a598f5f20461e66
         return subStr;
     } else {
         return str;
